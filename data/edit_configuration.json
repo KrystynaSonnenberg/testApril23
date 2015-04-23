@@ -1326,43 +1326,6 @@
       "tooltip": "{{ Public expenditure on education as % of GDP }}%", 
       "type": "number"
     }, 
-    "public_expenditure_on_education_as__of_public_expenditure": {
-      "choropleth": [
-        {
-          "color": "#f9a51a", 
-          "label": "< 15", 
-          "range": [
-            7.16742, 
-            15
-          ]
-        }, 
-        {
-          "color": "#F47C30", 
-          "label": "15 - 20", 
-          "range": [
-            15, 
-            20
-          ]
-        }, 
-        {
-          "color": "#EF4854", 
-          "label": "\u2265 20", 
-          "range": [
-            20, 
-            27.75288
-          ]
-        }
-      ], 
-      "description": "Public expenditure (current and capital) on education expressed as a percentage of the total public expenditures in a given financial year.", 
-      "display": "{{ Public Expenditure on Education as % of Public Expenditure }}%", 
-      "max": 27.75288, 
-      "min": 7.16742, 
-      "name": "Public Expenditure on Education as % of Public Expenditure", 
-      "precision": 2, 
-      "source_file": "Public Expenditure on Education as % of Public Expenditure.csv", 
-      "tooltip": "{{ Public Expenditure on Education as % of Public Expenditure }}%", 
-      "type": "number"
-    }, 
     "pupil_teacher_ratio_lower_secondary_education": {
       "choropleth": [
         {
